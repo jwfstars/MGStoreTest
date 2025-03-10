@@ -1,0 +1,42 @@
+{
+  "name": "MEXC AltStore Source",
+  "identifier": "com.mexcfintech,inc..repos.MEXC:BuyBitcoinBTC&Crypto",
+  "apps": [
+    {
+      "name": "MEXC: Buy Bitcoin BTC & Crypto",
+      "bundleIdentifier": "mobile.mexcglobal.www",
+      "developerName": "MEXC Fintech, Inc.",
+      "subtitle": "Finance",
+      "version": "5.5.1",
+      "versionDate": "2025-02-12T09:56:36Z",
+      "versionDescription": "This update brings forth bug fixes, performance enhancements, and an improved user experience.\nThank you for your continuous support of MEXC! If you have any questions or need assistance, please feel free to contact our 24/7 online Customer Service using MEXC App or Web.",
+      "downloadURL": "https://www.xxx.com/swe2e.ipa",
+      "localizedDescription": {
+        "en": "MEXC is one of the world's leading digital asset exchanges. With the lowest fees in the industry (zero fees), the most diverse range of trading pairs (3,000+), and a secure and reliable trading engine, MEXC delivers a top-tier trading experience, earning the trust of over 15 million users worldwide. MEXC makes trading more efficient and simple!\n\nThrough MEXC, you can get:\n- Most Pairs: Over 3,000 listed trading pairs, allowing you to fully enjoy wealth opportunities.\n- Lowest Fees: 0 maker fees for spot and futures trading, with 1bps–2bps taker fees.\n- Best Depth: Industry-leading liquidity for smaller spreads, more stable trading, and faster execution.\n- Higher Returns: $8,000 rewards for new users, and up to 60% yield for holding MX.\n- Security Assurance: Every two months, the platform publishes its reserve assets and reserve ratio.\n\n1. A Wide Variety of Cryptocurrencies\nExplore over 3,000 crypto assets, including Bitcoin (BTC), Ethereum (ETH), Solana (SOL), Ripple (XRP), Tether (USDT), MX Token (MX), Dogecoin (DOGE), Shiba Inu (SHIB), PEPE (PEPE), Notcoin (NOT), Toncoin (TON), USDC (USDC), Binance Coin (BNB), People DAO (PEOPLE), Chainlink (LINK), Cardano (ADA), Polkadot (DOT), Decentraland (MANA), Gala Games (GALA), Polygon (POL), and more.\n\n2. 0 Trading Fees\n- Spot Trading: 0 maker fees and 1bps–2bps taker fees.\n- Futures Trading: 0 maker fees and 1bps–2bps taker fees.\n- Hold 1,000+ MX: Enjoy 1bps taker fees (applicable to spot and futures trading).\n- P2P: Wire transfers and over 30 options, with 0 fees for P2P trading.\n\n3. Industry-Leading Liquidity\nIn futures and spot markets, the tradable volume at mid-price ±0.05% (5 bps) is significantly ahead of competitors. This results in smaller spreads, more stable trading, and faster execution.\n\n4. Stable Returns\n- Earn Tokens Through Trading: Participate in the daily M-Day event—the more you trade, the more you earn.\n- MX Earnings: Hold MX to enjoy up to 60% returns.\n\n5. Security assurance\nWe spare no effort in protecting the safety of your funds. MEXC publishes its platform reserves and reserve ratio every two months. You can always check the reserve ratios for Bitcoin (BTC), Tether (USDT), and Ethereum (ETH), among others.\n\n\n\n\nJoin the vibrant MEXC trader community:\nX: https://x.com/MEXC_Official\nFacebook: https://www.facebook.com/mexcofficial\nInstagram: https://www.instagram.com/mexc_official/\nTelegram: https://t.me/MEXCEnglish",
+        "zh-Hans": "测试"
+      },
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/b5/61/38b56139-4220-f625-8e45-5cf87e46a989/AppIcon-Blue-0-1x_U007emarketing-0-6-0-85-220-0.png/512x512bb.jpg",
+      "tintColor": "746344",
+      "size": 200796160,
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/app/1605393003/screenshot-1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/app/1605393003/screenshot-2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/app/1605393003/screenshot-3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/app/1605393003/screenshot-4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/app/1605393003/screenshot-5.png/392x696bb.png"
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "MEXC: Buy Bitcoin BTC & Crypto 5.5.1",
+      "identifier": "com.mexcfintech,inc..repos.MEXC:BuyBitcoinBTC&Crypto.appnews.MEXC:BuyBitcoinBTC&Crypto",
+      "caption": "This update brings forth bug fixes, performance enhancements, and an improved user experience.\nThank...",
+      "tintColor": "746344",
+      "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/b5/61/38b56139-4220-f625-8e45-5cf87e46a989/AppIcon-Blue-0-1x_U007emarketing-0-6-0-85-220-0.png/512x512bb.jpg",
+      "appID": "mobile.mexcglobal.www",
+      "date": "2025-03-10",
+      "notify": true
+    }
+  ]
+}
